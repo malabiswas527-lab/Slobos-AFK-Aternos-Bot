@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "InfinitezzRecServer.aternos.me",
+    "port": 23596,
     "version": "",
     "try-creative": false
   },
